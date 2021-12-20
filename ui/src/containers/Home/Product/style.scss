@@ -1,0 +1,35 @@
+.home {
+  .product {
+    .breadcrumb {
+      padding: 10px;
+    }
+    .box {
+      .media {
+        display: flex;
+        flex-wrap: wrap;
+        flex-direction: row;
+        justify-content: center;
+
+        .media-content {
+          .content {
+            display: flex;
+            justify-content: space-between;
+            flex-direction: column;
+            height: 300px;
+
+            .add-to-card {
+              button {
+                width: 100%;
+              }
+            }
+            .buy-now {
+              button {
+                width: 100%;
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

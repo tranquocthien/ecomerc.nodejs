@@ -1,0 +1,138 @@
+// Admin
+.main {
+  background-color: #ecf0f5;
+  overflow-x: hidden;
+}
+
+.admin {
+  padding-top: 70px;
+}
+
+// User
+.user-container {
+  margin: 10px;
+  & > * {
+    font-size: 30px;
+  }
+
+  & > div {
+    margin: 7px;
+  }
+  form {
+    padding: 0 0 0 4px;
+    input {
+      font-size: 30px;
+      width: 100%;
+    }
+  }
+
+  .suggest {
+    .result {
+      a {
+        &:hover,
+        &:visited,
+        &:link,
+        &:active {
+          color: rgb(68, 68, 68);
+          text-decoration: none;
+          font-size: 20px;
+          display: block;
+        }
+      }
+    }
+  }
+}
+
+// Category
+.add-category {
+  margin: 8px;
+
+  & > div {
+    padding: 4px 0;
+
+    input {
+      width: 100%;
+    }
+  }
+
+  & * {
+    font-size: 30px;
+  }
+
+  .add-status {
+    display: none;
+  }
+}
+
+.delete-category {
+  margin: 8px;
+  & * {
+    font-size: 30px;
+  }
+
+  .delete-input {
+    width: 100%;
+  }
+
+  .delete-suggestion {
+    a {
+      &:hover,
+      &:visited,
+      &:active,
+      &:link {
+        color: black;
+        display: block;
+      }
+    }
+  }
+}
+
+// product
+
+.product {
+  font-size: 30px;
+
+  .add-product {
+    form > * {
+      margin: 0px 0px 3px 8px;
+    }
+
+    form {
+      width: 100%;
+    }
+
+    .dropdown {
+      .form-group {
+        margin: 0;
+
+        .custom-select {
+          font-size: 1em;
+          overflow-x: hidden !important;
+
+          option {
+            width: 0px;
+            margin: 0px;
+            padding: 0;
+            height: 0px;
+            overflow-x: hidden !important;
+          }
+        }
+      }
+    }
+
+    input[type='text'] {
+      font-size: 30px;
+      width: 100%;
+    }
+
+    input[type='file'] {
+      font-size: 30px;
+      width: 100%;
+    }
+
+    input[type='submit'] {
+      font-size: 30px;
+      margin: 3px 0 0 0px;
+    }
+  }
+}

@@ -1,0 +1,394 @@
+[
+  {
+    "ten": "Đường vàng thiên nhiên Biên Hòa 1kg",
+    "gia": 6700,
+    "thuocDanhMuc": "dầu ăn, gia vị",
+    "thumbnail": "https://cdn.tgdd.vn/Products/Images/2804/193562/bhx/duong-vang-thien-nhien-bien-hoa-gold-goi-1kg-202103011712336897_300x300.jpg",
+    "moTa": ""
+  },
+  {
+    "ten": "Đường tinh luyện Biên Hòa gói 1kg",
+    "gia": 5900,
+    "thuocDanhMuc": "dầu ăn, gia vị",
+    "thumbnail": "https://cdn.tgdd.vn/Products/Images/2804/85200/bhx/duong-tinh-luyen-bien-hoa-pure-goi-1kg-202103011710598525_300x300.jpg",
+    "moTa": ""
+  },
+  {
+    "ten": "Tiêu chín đỏ Phú Quốc DH Foods 45g",
+    "gia": 1200,
+    "thuocDanhMuc": "dầu ăn, gia vị",
+    "thumbnail": "https://cdn.tgdd.vn/Products/Images/2809/212167/bhx/tieu-chin-do-phu-quoc-dh-foods-natural-co-nap-xay-45g-202103031011577163_300x300.jpg",
+    "moTa": ""
+  },
+  {
+    "ten": "Tiêu sọ xay sẵn Vipep hũ 250g",
+    "gia": 7800,
+    "thuocDanhMuc": "dầu ăn, gia vị",
+    "thumbnail": "https://cdn.tgdd.vn/Products/Images/2809/219618/bhx/tieu-so-xay-vipep-hu-250g-202103030949599573_300x300.jpg",
+    "moTa": ""
+  },
+  {
+    "ten": "Tiêu chín Phú Quốc Vipep hũ 250g",
+    "gia": 1900,
+    "thuocDanhMuc": "dầu ăn, gia vị",
+    "thumbnail": "https://cdn.tgdd.vn/Products/Images/2809/219620/bhx/tieu-chin-phu-quoc-vipep-hu-250g-202103030951393545_300x300.jpg",
+    "moTa": ""
+  },
+  {
+    "ten": "Tiêu sọ nguyên hạt Vipep hũ 250g",
+    "gia": 5100,
+    "thuocDanhMuc": "dầu ăn, gia vị",
+    "thumbnail": "https://cdn.tgdd.vn/Products/Images/2809/219619/bhx/tieu-so-hat-vipep-hu-250g-202103030952209945_300x300.jpg",
+    "moTa": ""
+  },
+  {
+    "ten": "Tiêu sọ hạt Phú Quốc DH Foods 45g",
+    "gia": 8200,
+    "thuocDanhMuc": "dầu ăn, gia vị",
+    "thumbnail": "https://cdn.tgdd.vn/Products/Images/2809/206066/bhx/tieu-so-hat-phu-quoc-co-nap-xay-dh-foods-hu-45g-202103030953136949_300x300.jpg",
+    "moTa": ""
+  },
+  {
+    "ten": "Tiêu sọ hữu cơ Farmers Organic 55g",
+    "gia": 6700,
+    "thuocDanhMuc": "dầu ăn, gia vị",
+    "thumbnail": "https://cdn.tgdd.vn/Products/Images/2809/219623/bhx/tieu-so-huu-co-farmers-organic-hu-55g-202103031011410212_300x300.jpg",
+    "moTa": ""
+  },
+  {
+    "ten": "Tiêu sọ hạt Phú Quốc Minh Hà hũ 40g",
+    "gia": 4700,
+    "thuocDanhMuc": "dầu ăn, gia vị",
+    "thumbnail": "https://cdn.tgdd.vn/Products/Images/2809/195871/bhx/tieu-so-hat-phu-quoc-co-nap-xay-minh-ha-hu-40g-202103031012306819_300x300.jpg",
+    "moTa": ""
+  },
+  {
+    "ten": "Tiêu đen hạt Phú Quốc DH Foods 45g",
+    "gia": 4100,
+    "thuocDanhMuc": "dầu ăn, gia vị",
+    "thumbnail": "https://cdn.tgdd.vn/Products/Images/2809/206065/bhx/tieu-den-hat-phu-quoc-co-nap-xay-dh-foods-hu-45g-202103031012026764_300x300.jpg",
+    "moTa": ""
+  },
+  {
+    "ten": "Tiêu đen nguyên hạt Vipep hũ 250g",
+    "gia": 4300,
+    "thuocDanhMuc": "dầu ăn, gia vị",
+    "thumbnail": "https://cdn.tgdd.vn/Products/Images/2809/219616/bhx/tieu-den-hat-vipep-hu-250g-202103030952503509_300x300.jpg",
+    "moTa": ""
+  },
+  {
+    "ten": "Đường lá cỏ ngọt Stevia hộp 125g",
+    "gia": 7300,
+    "thuocDanhMuc": "dầu ăn, gia vị",
+    "thumbnail": "https://cdn.tgdd.vn/Products/Images/2804/219821/bhx/duong-la-co-ngot-tropicana-slim-stevia-hop-125g-202103100843545216_300x300.jpg",
+    "moTa": ""
+  },
+  {
+    "ten": "Đường ăn kiêng Tropicana Slim 100g",
+    "gia": 9400,
+    "thuocDanhMuc": "dầu ăn, gia vị",
+    "thumbnail": "https://cdn.tgdd.vn/Products/Images/2804/204373/bhx/duong-an-kieng-tropicana-slim-diabetics-hop-100g-50-goi-x-2g-202103011706060564_300x300.jpg",
+    "moTa": ""
+  },
+  {
+    "ten": "Tiêu đen hữu cơ Farmers Organic 55g",
+    "gia": 4600,
+    "thuocDanhMuc": "dầu ăn, gia vị",
+    "thumbnail": "https://cdn.tgdd.vn/Products/Images/2809/219621/bhx/tieu-den-huu-co-farmers-organic-hu-55g-202103031012399817_300x300.jpg",
+    "moTa": ""
+  },
+  {
+    "ten": "Đường nâu Organic TSU Special 500g",
+    "gia": 5100,
+    "thuocDanhMuc": "dầu ăn, gia vị",
+    "thumbnail": "https://cdn.tgdd.vn/Products/Images/2804/195863/bhx/duong-nau-organic-tsu-special-goi-500g-202103011708158385_300x300.jpg",
+    "moTa": ""
+  },
+  {
+    "ten": "Tiêu chín đỏ nguyên hạt Vipep hũ 55g",
+    "gia": 100,
+    "thuocDanhMuc": "dầu ăn, gia vị",
+    "thumbnail": "https://cdn.tgdd.vn/Products/Images/2809/224288/bhx/tieu-chin-do-vipep-hu-55g-202103030952206313_300x300.jpg",
+    "moTa": ""
+  },
+  {
+    "ten": "Tiêu xanh nguyên hạt Vipep hũ 20g",
+    "gia": 6500,
+    "thuocDanhMuc": "dầu ăn, gia vị",
+    "thumbnail": "https://cdn.tgdd.vn/Products/Images/2809/224287/bhx/tieu-xanh-vipep-hu-20g-202103030953005683_300x300.jpg",
+    "moTa": ""
+  },
+  {
+    "ten": "Đường thốt nốt bột Moun7ains 300g",
+    "gia": 5600,
+    "thuocDanhMuc": "dầu ăn, gia vị",
+    "thumbnail": "https://cdn.tgdd.vn/Products/Images/2804/207732/bhx/duong-thot-not-dang-bot-moun7ains-hu-300g-202103011710413495_300x300.jpg",
+    "moTa": ""
+  },
+  {
+    "ten": "Tiêu đen hạt Phú Quốc Minh Hà 40g",
+    "gia": 2300,
+    "thuocDanhMuc": "dầu ăn, gia vị",
+    "thumbnail": "https://cdn.tgdd.vn/Products/Images/2809/195870/bhx/tieu-den-hat-phu-quoc-co-nap-xay-minh-ha-hu-40g-202103030952357177_300x300.jpg",
+    "moTa": ""
+  },
+  {
+    "ten": "Tiêu ngũ sắc nguyên hạt Vipep 45g",
+    "gia": 6200,
+    "thuocDanhMuc": "dầu ăn, gia vị",
+    "thumbnail": "https://cdn.tgdd.vn/Products/Images/2809/224268/bhx/tieu-ngu-sac-vipep-hu-45g-202103030952255684_300x300.jpg",
+    "moTa": ""
+  },
+  {
+    "ten": "Đường ăn kiêng Vikybomi gói 300g",
+    "gia": 4100,
+    "thuocDanhMuc": "dầu ăn, gia vị",
+    "thumbnail": "https://cdn.tgdd.vn/Products/Images/2804/188802/bhx/duong-an-kieng-isomalt-vikybomi-goi-300g-202103011705512473_300x300.jpg",
+    "moTa": ""
+  },
+  {
+    "ten": "Muối hồng tiêu đen Vipep hũ 90g",
+    "gia": 4700,
+    "thuocDanhMuc": "dầu ăn, gia vị",
+    "thumbnail": "https://cdn.tgdd.vn/Products/Images/2803/224295/bhx/muoi-hong-tieu-den-vipep-hu-90g-202103030739136616_300x300.jpg",
+    "moTa": ""
+  },
+  {
+    "ten": "Đường ăn kiêng Vikybomi hộp 175g",
+    "gia": 4400,
+    "thuocDanhMuc": "dầu ăn, gia vị",
+    "thumbnail": "https://cdn.tgdd.vn/Products/Images/2804/221103/bhx/duong-an-kieng-isomalt-vikybomi-hop-175g-202103011705597094_300x300.jpg",
+    "moTa": ""
+  },
+  {
+    "ten": "Tiêu sọ xay sẵn Vipep hũ 100g",
+    "gia": 7600,
+    "thuocDanhMuc": "dầu ăn, gia vị",
+    "thumbnail": "https://cdn.tgdd.vn/Products/Images/2809/219615/bhx/tieu-so-xay-vipep-hu-100g-202103030950141322_300x300.jpg",
+    "moTa": ""
+  },
+  {
+    "ten": "Đường đen Nữ hoàng Biên Hòa gói 1kg",
+    "gia": 900,
+    "thuocDanhMuc": "dầu ăn, gia vị",
+    "thumbnail": "https://cdn.tgdd.vn/Products/Images/2804/217482/bhx/duong-den-nu-hoang-bien-hoa-goi-1kg-202103011706122663_300x300.jpg",
+    "moTa": ""
+  },
+  {
+    "ten": "Tiêu sọ nguyên hạt Vipep hũ 100g",
+    "gia": 5700,
+    "thuocDanhMuc": "dầu ăn, gia vị",
+    "thumbnail": "https://cdn.tgdd.vn/Products/Images/2809/219614/bhx/tieu-so-hat-vipep-hu-100g-202103030952171741_300x300.jpg",
+    "moTa": ""
+  },
+  {
+    "ten": "Đường nâu cao cấp Toàn Phát gói 1kg",
+    "gia": 5000,
+    "thuocDanhMuc": "dầu ăn, gia vị",
+    "thumbnail": "https://cdn.tgdd.vn/Products/Images/2804/200375/bhx/duong-nau-toan-phat-goi-1kg-202103011708217638_300x300.jpg",
+    "moTa": ""
+  },
+  {
+    "ten": "Muối hồng ớt đỏ Vipep hũ 110g",
+    "gia": 500,
+    "thuocDanhMuc": "dầu ăn, gia vị",
+    "thumbnail": "https://cdn.tgdd.vn/Products/Images/2803/224294/bhx/muoi-hong-ot-do-vipep-hu-110g-202103030736543500_300x300.jpg",
+    "moTa": ""
+  },
+  {
+    "ten": "Tiêu sọ hữu cơ Farmers Organic 50g",
+    "gia": 3100,
+    "thuocDanhMuc": "dầu ăn, gia vị",
+    "thumbnail": "https://cdn.tgdd.vn/Products/Images/2809/219626/bhx/tieu-so-huu-co-farmers-organic-tui-50g-202103031011464382_300x300.jpg",
+    "moTa": ""
+  },
+  {
+    "ten": "Tiêu đen hạt Phú Quốc Minh Hà 50g",
+    "gia": 2500,
+    "thuocDanhMuc": "dầu ăn, gia vị",
+    "thumbnail": "https://cdn.tgdd.vn/Products/Images/2809/174529/bhx/tieu-den-nguyen-hat-phu-quoc-minh-ha-hu-50g-202103030952412752_300x300.jpg",
+    "moTa": ""
+  },
+  {
+    "ten": "Tiêu sọ xay Phú Quốc DH Foods 65g",
+    "gia": 900,
+    "thuocDanhMuc": "dầu ăn, gia vị",
+    "thumbnail": "https://cdn.tgdd.vn/Products/Images/2809/225391/bhx/tieu-so-xay-phu-quoc-dh-foods-hu-65g-202103030952309727_300x300.jpg",
+    "moTa": ""
+  },
+  {
+    "ten": "Muối hồng Himalaya Auro Salt 500g",
+    "gia": 3700,
+    "thuocDanhMuc": "dầu ăn, gia vị",
+    "thumbnail": "https://cdn.tgdd.vn/Products/Images/2803/204385/bhx/muoi-hong-himalaya-hat-min-auro-salt-goi-500g-202103030745018825_300x300.jpg",
+    "moTa": ""
+  },
+  {
+    "ten": "Muối hồng Himalaya Auro Salt 500g",
+    "gia": 3300,
+    "thuocDanhMuc": "dầu ăn, gia vị",
+    "thumbnail": "https://cdn.tgdd.vn/Products/Images/2803/204369/bhx/muoi-hong-himalaya-hat-to-auro-salt-goi-500g-202103030745337167_300x300.jpg",
+    "moTa": ""
+  },
+  {
+    "ten": "Muối hồng cối xay Vipep hũ 120g",
+    "gia": 9700,
+    "thuocDanhMuc": "dầu ăn, gia vị",
+    "thumbnail": "https://cdn.tgdd.vn/Products/Images/2803/224289/bhx/muoi-hong-co-coi-xay-vipep-hu-120g-202103030736206804_300x300.jpg",
+    "moTa": ""
+  },
+  {
+    "ten": "Đường làm bánh Biên Hòa Pro gói 1kg",
+    "gia": 1800,
+    "thuocDanhMuc": "dầu ăn, gia vị",
+    "thumbnail": "https://cdn.tgdd.vn/Products/Images/2804/195862/bhx/duong-lam-banh-bien-hoa-pro-goi-1kg-202103011706410808_300x300.jpg",
+    "moTa": ""
+  },
+  {
+    "ten": "Tiêu đen xay sẵn Vipep hũ 100g",
+    "gia": 5800,
+    "thuocDanhMuc": "dầu ăn, gia vị",
+    "thumbnail": "https://cdn.tgdd.vn/Products/Images/2809/219613/bhx/tieu-den-xay-vipep-hu-100g-202103030950202460_300x300.jpg",
+    "moTa": ""
+  },
+  {
+    "ten": "Đường phèn cao cấp TSU Diamond 450g",
+    "gia": 9000,
+    "thuocDanhMuc": "dầu ăn, gia vị",
+    "thumbnail": "https://cdn.tgdd.vn/Products/Images/2804/213875/bhx/duong-phen-cao-cap-tsu-hu-450g-202103011708406336_300x300.jpg",
+    "moTa": ""
+  },
+  {
+    "ten": "Tiêu sọ nguyên hạt Natas hũ nhỏ 60g",
+    "gia": 6100,
+    "thuocDanhMuc": "dầu ăn, gia vị",
+    "thumbnail": "https://cdn.tgdd.vn/Products/Images/2809/221289/bhx/tieu-so-hat-natas-hu-60g-202103030949476657_300x300.jpg",
+    "moTa": ""
+  },
+  {
+    "ten": "Tiêu sọ xay nhuyễn Natas hũ nhỏ 55g",
+    "gia": 1800,
+    "thuocDanhMuc": "dầu ăn, gia vị",
+    "thumbnail": "https://cdn.tgdd.vn/Products/Images/2809/82202/bhx/tieu-so-xay-natas-hu-55g-202103030950488214_300x300.jpg",
+    "moTa": ""
+  },
+  {
+    "ten": "Tiêu đen nguyên hạt Vipep hũ 100g",
+    "gia": 5900,
+    "thuocDanhMuc": "dầu ăn, gia vị",
+    "thumbnail": "https://cdn.tgdd.vn/Products/Images/2809/219612/bhx/tieu-den-hat-vipep-hu-100g-202103030952550358_300x300.jpg",
+    "moTa": ""
+  },
+  {
+    "ten": "Tiêu đen xay sẵn Ông Chà Và hũ 50g",
+    "gia": 2600,
+    "thuocDanhMuc": "dầu ăn, gia vị",
+    "thumbnail": "https://cdn.tgdd.vn/Products/Images/2809/208174/bhx/tieu-den-xay-ong-cha-va-hu-50g-202103031012255697_300x300.jpg",
+    "moTa": ""
+  },
+  {
+    "ten": "Đường thốt nốt bột Moun7ains 200g",
+    "gia": 6600,
+    "thuocDanhMuc": "dầu ăn, gia vị",
+    "thumbnail": "https://cdn.tgdd.vn/Products/Images/2804/221338/bhx/duong-thot-not-dang-bot-moun7ains-hop-200g-202103011710359828_300x300.jpg",
+    "moTa": ""
+  },
+  {
+    "ten": "Tiêu đen xay sẵn DH Foods hũ 80g",
+    "gia": 5300,
+    "thuocDanhMuc": "dầu ăn, gia vị",
+    "thumbnail": "https://cdn.tgdd.vn/Products/Images/2809/82267/bhx/tieu-den-xay-dh-foods-hu-80g-202103030951219161_300x300.jpg",
+    "moTa": ""
+  },
+  {
+    "ten": "Nước đường cô đặc Beksul chai 700g",
+    "gia": 6400,
+    "thuocDanhMuc": "dầu ăn, gia vị",
+    "thumbnail": "https://cdn.tgdd.vn/Products/Images/2804/161734/bhx/nuoc-duong-co-dac-beksul-cooking-syrup-chai-700g-202103011713336631_300x300.jpg",
+    "moTa": ""
+  },
+  {
+    "ten": "Tiêu đen xay Phú Quốc Minh Hà 50g",
+    "gia": 8800,
+    "thuocDanhMuc": "dầu ăn, gia vị",
+    "thumbnail": "https://cdn.tgdd.vn/Products/Images/2809/174530/bhx/tieu-den-xay-phu-quoc-minh-ha-hu-50g-202103030952457420_300x300.jpg",
+    "moTa": ""
+  },
+  {
+    "ten": "Đường lỏng Biên Hòa Mía Xanh 500ml",
+    "gia": 4900,
+    "thuocDanhMuc": "dầu ăn, gia vị",
+    "thumbnail": "https://cdn.tgdd.vn/Products/Images/2804/194775/bhx/duong-long-bien-hoa-mia-xanh-chai-500ml-202103011708033740_300x300.jpg",
+    "moTa": ""
+  },
+  {
+    "ten": "Tiêu đen hữu cơ Farmers Organic 50g",
+    "gia": 8500,
+    "thuocDanhMuc": "dầu ăn, gia vị",
+    "thumbnail": "https://cdn.tgdd.vn/Products/Images/2809/219625/bhx/tieu-den-huu-co-farmers-organic-tui-50g-202103031012352298_300x300.jpg",
+    "moTa": ""
+  },
+  {
+    "ten": "Đường thốt nốt Moun7ains 500g",
+    "gia": 300,
+    "thuocDanhMuc": "dầu ăn, gia vị",
+    "thumbnail": "https://cdn.tgdd.vn/Products/Images/2804/207731/bhx/duong-thot-not-dang-vien-moun7ains-goi-500g-202103011710530823_300x300.jpg",
+    "moTa": ""
+  },
+  {
+    "ten": "Muối hồng Himalaya Auro Salt 250g",
+    "gia": 9700,
+    "thuocDanhMuc": "dầu ăn, gia vị",
+    "thumbnail": "https://cdn.tgdd.vn/Products/Images/2803/204371/bhx/muoi-hong-himalaya-hat-to-auro-salt-hu-250g-202103030745314483_300x300.jpg",
+    "moTa": ""
+  },
+  {
+    "ten": "Muối hồng Himalaya Auro Salt 250g",
+    "gia": 2900,
+    "thuocDanhMuc": "dầu ăn, gia vị",
+    "thumbnail": "https://cdn.tgdd.vn/Products/Images/2803/204372/bhx/muoi-hong-himalaya-hat-nho-auro-salt-hu-250g-202103030741592260_300x300.jpg",
+    "moTa": ""
+  },
+  {
+    "ten": "Muối hồng nguyên hạt Vipep 250g",
+    "gia": 6100,
+    "thuocDanhMuc": "dầu ăn, gia vị",
+    "thumbnail": "https://cdn.tgdd.vn/Products/Images/2803/224291/bhx/muoi-hong-nguyen-hat-vipep-hu-250g-202103030739008207_300x300.jpg",
+    "moTa": ""
+  },
+  {
+    "ten": "Đường vàng khoáng chất Biên Hòa 1kg",
+    "gia": 3200,
+    "thuocDanhMuc": "dầu ăn, gia vị",
+    "thumbnail": "https://cdn.tgdd.vn/Products/Images/2804/109634/bhx/duong-vang-khoang-chat-bien-hoa-pure-goi-1kg-202103011712281232_300x300.jpg",
+    "moTa": ""
+  },
+  {
+    "ten": "Đường tinh luyện cao cấp TSU 1kg",
+    "gia": 500,
+    "thuocDanhMuc": "dầu ăn, gia vị",
+    "thumbnail": "https://cdn.tgdd.vn/Products/Images/2804/207900/bhx/duong-tinh-luyen-cao-cap-tsu-premium-goi-1kg-202103011711421015_300x300.jpg",
+    "moTa": ""
+  },
+  {
+    "ten": "Đường thốt nốt bột Ba Xi hũ vừa 200g",
+    "gia": 8700,
+    "thuocDanhMuc": "dầu ăn, gia vị",
+    "thumbnail": "https://cdn.tgdd.vn/Products/Images/2804/195673/bhx/duong-thot-not-ba-xi-hu-200g-202103011709540939_300x300.jpg",
+    "moTa": ""
+  },
+  {
+    "ten": "Đường thốt nốt viên Ba Xi hũ 250g",
+    "gia": 3500,
+    "thuocDanhMuc": "dầu ăn, gia vị",
+    "thumbnail": "https://cdn.tgdd.vn/Products/Images/2804/195425/bhx/duong-thot-not-ba-xi-hu-250g-8-vien-202103011710302292_300x300.jpg",
+    "moTa": ""
+  },
+  {
+    "ten": "Tiêu đen xay Phú Quốc DH Foods 45g",
+    "gia": 7300,
+    "thuocDanhMuc": "dầu ăn, gia vị",
+    "thumbnail": "https://cdn.tgdd.vn/Products/Images/2809/225392/bhx/tieu-den-xay-phu-quoc-dh-foods-hu-45g-202103031011294249_300x300.jpg",
+    "moTa": ""
+  }
+]

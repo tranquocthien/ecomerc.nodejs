@@ -1,0 +1,19 @@
+.section {
+  text-transform: uppercase;
+  .box {
+    .my-card {
+      display: flex;
+      justify-content: center;
+      flex-direction: row;
+      flex-wrap: wrap;
+
+      .card {
+        margin: 10px;
+      }
+    }
+    .my-button {
+      display: flex;
+      justify-content: center;
+    }
+  }
+}

@@ -1,0 +1,15 @@
+.product {
+  & > input {
+    transform: scale(2.5);
+  }
+  .right {
+    .quantity {
+      display: flex;
+      flex-direction: row;
+
+      .input {
+        width: 70px;
+      }
+    }
+  }
+}
